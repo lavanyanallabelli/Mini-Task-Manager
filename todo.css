@@ -1,0 +1,55 @@
+body{
+   
+    
+    
+    text-align: center;
+    margin: 0 auto;
+
+}
+.container{
+    width:300px;
+}
+#center{
+    padding-top:  50px;
+    padding-left: 30px;
+    padding-bottom: 400px;
+    padding-right: 60px;
+    background-color: rgb(116, 183, 238);
+    margin-top:  20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#inputfield{
+    vertical-align: middle;
+    margin-right: 70px;
+    margin-left: 450px; 
+    height: 40px;
+    width: 350px;
+   
+}
+#addtodo{
+    height: 50px;
+    width:50px;
+    border: 1px solid black;
+    vertical-align: middle;
+    font-size: 30px;
+    margin-left: 700px;
+    margin-right: -670px;
+    margin-top: -70px;
+
+}
+.to-dos{
+    margin: 0;
+    cursor: pointer;
+    font-size: 20px;
+} 
+@media only screen and (min-width:601px){
+    body{
+        background-color:white;
+    }
+
+}
+
+    
+    
